@@ -1,5 +1,3 @@
-
-ITC106 - Introductory Programming
-
 Welcome!
-This is where I will be uploading any kind of coding I do during my studies for everyone to see.
+I hope you enjoy looking through my coding activities and assignments from Charles Sturt university.
+This Unit is done in Python 3
